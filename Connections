@@ -1,0 +1,13 @@
+Ultrasonic Sensor (e.g., HC-SR04):
+- VCC: Connect to the 5V pin on the Arduino.
+- GND: Connect to the GND pin on the Arduino.
+- TRIGGER_PIN (Pin 9): Connect to Pin 9 on the Arduino.
+- ECHO_PIN (Pin 10): Connect to Pin 10 on the Arduino.
+
+LCD Display (I2C):
+- GND: Connect to the GND pin on the Arduino.
+- VCC: Connect to the 5V pin on the Arduino.
+- SDA: Connect to the SDA pin on the Arduino (usually A4 on older models, or dedicated SDA pin on newer models like Uno R3).
+- SCL: Connect to the SCL pin on the Arduino (usually A5 on older models, or dedicated SCL pin on newer models).
+
+
